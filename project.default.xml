@@ -1,0 +1,22 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="SbtLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Documents/Projects/doobie-http4s-sangria-grapgql-example" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/Projects/sangria-http4s-graalvm-example" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/Projects/sangria-scalaio-demo-master" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/scala notes" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/scala notes/example" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/scala notes/funsets" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/scala notes/recfun" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customVMPath" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
